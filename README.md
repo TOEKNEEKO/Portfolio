@@ -1,2 +1,1 @@
-# Portfolio
-Projects and ad-hoc analysis
+# Tony Kao Projects and Portfolio
