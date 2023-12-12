@@ -9,5 +9,7 @@ Each project reflects not just technical proficiency but also a deep-seated curi
 Thank you for visiting! I hope you find inspiration and insight within these projects. If you have any questions, feedback, or collaboration opportunities, please don't hesitate to reach out.
 
 Happy coding!
+
 Tony Kao
+
 tkao501@gmail.com
